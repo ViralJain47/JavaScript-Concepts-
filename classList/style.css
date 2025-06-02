@@ -1,0 +1,21 @@
+#mybtn{
+    font-size: 3.5rem;
+    padding: 20px 20px;
+    border-radius: 15px;
+    border: none;
+}
+
+.enabled{
+    background-color: hsla(307, 76%, 57%, 0.853);
+    color: white;
+}
+
+.hover{
+    box-shadow: 0 0 10px hsl(324, 77%, 68%);
+    font-weight: bold;
+}
+
+.disabled{
+    background-color: hsla(0, 0%, 60%);   
+    color: hsla(0, 0%, 80%);
+}

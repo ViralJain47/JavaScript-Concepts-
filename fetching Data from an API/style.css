@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#pokemonName{
+    font-size: 2rem;
+    margin-bottom: 10px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius:25px;
+}
+button{
+    border: none;
+    font-size: 1rem;
+    border-radius: 15px;
+    background-color: hsl(69, 79%, 49%);
+    cursor: pointer;
+    padding: 5px 15px;
+
+}
+button:hover{
+    background-color: hsl(69, 79%, 40%);;
+}
+img{
+    display: none;
+}

@@ -1,0 +1,20 @@
+[{
+    "name":"viral",
+    "age":21,
+    "isEmployed":true
+},
+{
+    "name":"yug",
+    "age":20,
+    "isEmployed":false
+},
+{
+    "name":"vansh",
+    "age":20,
+    "isEmployed":true
+},
+{
+    "name":"muskan",
+    "age":22,
+    "isEmployed":false
+}]
